@@ -1,0 +1,11 @@
+{
+	"relays": ["wss://nostrue.com", "wss://relay.damus.io", "wss://relay.primal.net"],
+	"servers": ["https://cdn.hzrd149.com", "https://blossom.primal.net", "https://nostr.download"],
+	"profile": {
+		"name": "LNBeats",
+		"about": "A fork of LNBeats.com by hzrd149 deployed on nsite"
+	},
+	"publishProfile": true,
+	"publishServerList": true,
+	"publishRelayList": true
+}
